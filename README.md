@@ -1,5 +1,4 @@
-<h1 align='center'>Campaign</h1>gn Evaluation of Marketing Campaign
-
+<h1 align='center'> Impact Evaluation of Marketing Campaign </h1>
 
 ### **Overview**  
 This project evaluates the effectiveness of the **Summer Blitz 2024** marketing campaign on sales revenue using **simulated sales data**. The analysis employs **A/B testing and Difference-in-Differences (DiD) regression** to measure the campaign’s incremental impact while controlling for external factors.  
