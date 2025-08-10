@@ -37,10 +37,14 @@ Determine whether the campaign drove a statistically significant increase in sal
 
 ![Alt text](Results/1.png)
 
-
-
- – Visualizes treatment vs. control trends.  
 - **Table 1:** *Regression Results* – Displays coefficients, p-values, and percentage effects.  
+
+![Alt text](Results/3.png)
+
+
+![Alt text](Results/2.png)
+
+
 
 ### **Findings**  
 
