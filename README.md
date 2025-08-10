@@ -69,11 +69,18 @@ Determine whether the campaign drove a statistically significant increase in sal
 
 ### **Folder Structure**  
 ```  
-project/  
-├── data/              # Simulated sales dataset  
-├── notebooks/         # Jupyter notebooks (EDA, regression, visualization)  
-├── results/           # Outputs (tables, plots, reports)  
-└── README.md  
+Difference-in-Differences-Regression-Analysis-/
+├── Datasets/
+├── Documents/
+├── Notebooks/
+├── Resources/
+├── Results/
+├── scr/
+├── DID Regression Analysis.ipynb
+├── Hypothesis Testing.ipynb
+├── LICENSE
+├── README.md
+└── main.py
 ```  
 
 ---  
