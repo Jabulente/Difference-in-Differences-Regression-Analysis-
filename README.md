@@ -33,7 +33,13 @@ Determine whether the campaign drove a statistically significant increase in sal
 ### **Results**  
 
 **Key Tables & Figures**  
-- **Figure 1:** *Sales Revenue Lift Following Summer Blitz 2024 Launch* – Visualizes treatment vs. control trends.  
+- **Figure 1:** *Sales Revenue Lift Following Summer Blitz 2024 Launch*
+
+![Alt text](Results/1.png)
+
+
+
+ – Visualizes treatment vs. control trends.  
 - **Table 1:** *Regression Results* – Displays coefficients, p-values, and percentage effects.  
 
 ### **Findings**  
